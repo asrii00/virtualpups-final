@@ -5,7 +5,7 @@ and mark one of the dogs as your favorite (the information will be saved to your
 ## How to configure: 
 1. Download repository
 2. Install dependencies with npm i command (Terminal)
-3. Add API keys (in submission file) to Config.js (where it says "// add config info here")
+3. Add API keys (in submission file) to firebase/Config.js (where it says "// add config info here")
 4. Run the app with npx expo start command
 
 ## Sources: 
