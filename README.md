@@ -11,3 +11,8 @@ and mark one of the dogs as your favorite (the information will be saved to your
 ## Sources: 
 - Course exercises
 - Dog icons created by me
+
+## Screencaps
+<img src="https://github.com/asrii00/virtualpups-final/assets/117261755/7fb9a4ad-b8e5-4f0f-a0ea-c60345478d96" width="700">
+
+
